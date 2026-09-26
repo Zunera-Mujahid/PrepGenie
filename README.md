@@ -102,7 +102,3 @@ npm run dev
 | GET | `/api/interview/reports` | Get all reports for the logged-in user |
 | DELETE | `/api/interview/report/:interviewId` | Delete a report |
 | POST | `/api/interview/resume/pdf/:interviewReportId` | Generate & download an AI resume PDF |
-
-## Author
-
-Built by Zunera Malik — BS Computer Science, University of Central Punjab (UCP), Lahore.
