@@ -295,8 +295,6 @@ The backend requires the following environment variables:
 | `JWT_SECRET` | Secret used for JWT authentication |
 | `Google_GENAI_API_KEY` | Google Gemini API key |
 
-> Never commit your `.env` file or expose API keys and database credentials publicly.
-
 ---
 
 ## API Endpoints
