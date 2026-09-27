@@ -57,7 +57,9 @@ PrepGenie can also generate a customized resume in HTML and convert it into a do
 
 🎥 **PrepGenie Demo**
 
-> Demo video coming soon.
+## Demo Video
+
+🎥 [Watch the PrepGenie Demo](https://youtu.be/nHFgrcr2BDE?si=1uV-fyGn0KT8fBBM)
 
 The demo will showcase:
 
